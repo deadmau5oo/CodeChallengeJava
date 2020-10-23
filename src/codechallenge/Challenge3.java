@@ -25,6 +25,7 @@ public class Challenge3 {
         digits=plusOne(digits,digits.length-1);
         return digits;
     }
+    
     static int[] plusOne(int[] digits,int counter) {
         if(digits[counter]<9){
             digits[counter]+=1;
@@ -45,6 +46,5 @@ public class Challenge3 {
     static void run(){
         int[] arrayNum = {9,9};
         System.out.println(Arrays.toString(plusOne(arrayNum)));
-        
     }
 }
