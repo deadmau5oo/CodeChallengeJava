@@ -8,7 +8,8 @@ public class Codechallenge {
        // Challenge3.run();
        // Challenge4.run();
        // Challenge5.run();
-          Challenge6.run();
+       // Challenge6.run();
+       // Challenge7.run();
     }
     
 }
