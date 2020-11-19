@@ -26,7 +26,8 @@ public class Codechallenge {
        // Challenge21.run();
        // Challenge22.run();
        // Challenge23.run();
-          Challenge24.run();
+       // Challenge24.run();
+          Challenge25.run();
     }
     
 }
