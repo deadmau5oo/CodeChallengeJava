@@ -37,7 +37,8 @@ public class Codechallenge {
        // Challenge32.run();
        // Challenge33.run();
        // Challenge34.run();
-          Challenge35.run();
+       // Challenge35.run();
+          Challenge36.run();
     }
     
 }
